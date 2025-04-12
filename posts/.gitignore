@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+.env
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# Others
+.env

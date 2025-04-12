@@ -22,7 +22,7 @@ This is a simple RESTful API built with Django that allows users to log in to vi
 
 ## ⚙️ Installation (Local Development)
 
-### 1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/tuyet1806/mypost-api.git
 cd mypost-api
 

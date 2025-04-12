@@ -69,5 +69,7 @@ If the user is authenticated, the post will be linked to their account.
 📂 Docker Support (Optional)
 docker build -t mypost-api .
 docker run -p 8000:8000 mypost-api
+
+
 📬 Contact
 GitHub: tuyet1806

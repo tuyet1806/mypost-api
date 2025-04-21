@@ -5,11 +5,10 @@ This is a simple RESTful API built with Django that allows users to log in to vi
 ## 🚀 Features
 
 - JWT Authentication (login via token)
-- Post creation with or without login
+- Post creation with login
 - Anonymous posting option
 - View list of all posts
 - Update or delete posts
-- Hide username for anonymous posts
 
 ## 🧱 Tech Stack
 
